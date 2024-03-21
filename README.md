@@ -1,1 +1,1 @@
-https://md-sharik.github.io/Random-Quotes/
+# https://md-sharik.github.io/Random-Quotes/
